@@ -1,0 +1,69 @@
+{
+    "usuario":[
+        {
+            "User":"alenka",
+            "Password":"alenka2004"
+        },
+
+        {
+            "User":"maricielo",
+            "Password":"maricielo2003"
+        },
+
+        {
+            "User":"barbadillo",
+            "Password":"barbadillo20"
+        }
+    ],
+    "turismo":[
+        {
+            "Imagen":"https://i.pinimg.com/564x/53/c2/97/53c297c5c9f32b592e0bc4de413e81f7.jpg",
+            "Titulo":"HUACACHINA 4.5⭐⭐⭐⭐",
+            "Precio":"TOUR:38$",
+            "Descripcion":"Anidada en medio de majestuosas dunas de arena en el desierto de Ica. Embárcate en un emocionante paseo en buggy sobre las dunas o aventúrate en el sandboarding para una dosis de adrenalina."
+        },
+        {
+            "Imagen":"https://grupogobesa.com/wp-content/gallery/parque-el-faro/PARQUE-EL-FARO1.jpeg",
+            "Titulo":"MIRAFLORES 4.7⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:10$",
+            "Descripcion":"Este icónico paseo marítimo te invita a disfrutar de impresionantes vistas al océano Pacífico mientras te sumerges en la energía vibrante de la ciudad."
+        }
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/564x/55/87/c2/5587c2c828e4b10c72953901161e737c.jpg",
+            "Titulo":"PALLAY PUNCHU 4.2⭐⭐⭐⭐",
+            "Precio":"TOUR:10$",
+            "Descripcion":"La montaña sagrada de los Andes Peruanos, te espera con su imponente belleza y misterio. Ubicada en la región de Cusco, esta majestuosa cumbre se eleva con orgullo, ofreciendo vistas panorámicas."
+        },
+        {
+            "Imagen":"https://i.pinimg.com/564x/3d/ae/37/3dae372540a108074daf9a2975c4af1c.jpg",
+            "Titulo":"MACHU PICCHU 5.0⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:40$",
+            "Descripcion":"¡Adéntrate en la majestuosidad y joya arqueológica de los Andes peruanos! Descubre la grandeza de esta antigua ciudad inca, ubicada en lo alto de una montaña entre exuberantes selvas y picos nevados."
+        },
+        {
+            "Imagen":"https://www.machupicchuperutours.com/wp-content/uploads/puno-2.jpg",
+            "Titulo":"ISLAS DE UROS 4.2⭐⭐⭐⭐",
+            "Precio":"TOUR:12$",
+            "Descripcion":"Estas islas flotantes, construidas a partir de totora, ofrecen una visión única de la vida tradicional. Descubre cómo estas comunidades han creado y mantenido sus hogares sobre las aguas del lago."
+        },
+        {
+            "Imagen":"https://i.pinimg.com/564x/70/f7/71/70f77119d5c039bb95924aa02a45f41e.jpg",
+            "Titulo":"CAÑON DE ESPEJOS 4.5⭐⭐⭐⭐",
+            "Precio":"TOUR:18$",
+            "Descripcion":"Se encuentra ubicado en Urcos, en Cusco. Está formado por pozos de agua de color turquesa que se sumergen en el suelo formando pozas."
+        },
+        {
+            "Imagen":"https://blog.redbus.pe/wp-content/uploads/2021/09/shutterstock_445221361-scaled-e1632435561682.jpg",
+            "Titulo":"PLAZA DE TRUJILLO 4.8⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:21$",
+            "Descripcion":"Este emblemático espacio urbano, ubicado en el corazón de la ciudad de Trujillo, te transporta a través de los siglos con su arquitectura colonial y su encanto tradicional."
+        },
+        {
+            "Imagen":"https://tipsparatuviaje.com/wp-content/uploads/2019/11/coliseo-de-roma.jpg",
+            "Titulo":"COLISEO DE ROMA 4.8⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:39$",
+            "Descripcion":"Admira la grandeza del Coliseo, un icono del antiguo Imperio Romano. Sumérgete en su historia mientras exploras sus majestuosas ruinas. ¡Una experiencia que te transportará en el tiempo!"
+        }
+    ]
+}
